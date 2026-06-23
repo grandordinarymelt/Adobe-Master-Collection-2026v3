@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 420" role="img" aria-label="Adobe Master Collection 2026v3 preview">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#d50000"/>
+      <stop offset="100%" stop-color="#ff1744"/>
+    </linearGradient>
+  </defs>
+  <rect width="860" height="420" rx="18" fill="url(#bg)"/>
+  <path d="M600,40 L820,40 L760,200 L540,200 Z" fill="#ff5252" opacity="0.25"/><path d="M640,80 L780,80 L720,160 L580,160 Z" fill="#ff1744" opacity="0.35"/><line x1="600" y1="40" x2="640" y2="80" stroke="#ffffff" stroke-opacity="0.2"/><line x1="820" y1="40" x2="780" y2="80" stroke="#ffffff" stroke-opacity="0.2"/>
+  <rect x="36" y="36" width="420" height="6" rx="3" fill="#ffffff" opacity="0.35"/>
+  <text x="48" y="120" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700">Adobe Master Collection 2026v3</text>
+  <text x="48" y="168" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="20" opacity="0.85">Creative suite bundle</text>
+  <rect x="48" y="200" width="260" height="4" rx="2" fill="#ffffff" opacity="0.3"/>
+  <rect x="48" y="220" width="200" height="4" rx="2" fill="#ffffff" opacity="0.2"/>
+  <rect x="48" y="240" width="320" height="4" rx="2" fill="#ffffff" opacity="0.15"/>
+</svg>
